@@ -28,8 +28,3 @@
 - Beginner Level
 
 ---
-
-## 📫 Connect With Me
-- **GitHub:** *(your GitHub link here)*
-
----
