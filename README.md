@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Daj Andrei G. Bernardino</h1>
+<p align="center">BSIT Undergraduate • Aspiring Developer & Cybersecurity Beginner</p>
 
-<!--
-**Daj-Andrei-Bernardino/Daj-Andrei-Bernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
+**Bachelor of Science in Information Technology (Undergraduate)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 Certifications
+*(None yet — SQL Certificate coming soon)*
+
+---
+
+## 🛠 Skillsets
+
+### 🌐 Frontend Development
+- HTML  
+- CSS  
+- JavaScript  
+
+### ☕ Java Programming
+- Beginner Level
+
+### 🔐 Cybersecurity
+- Beginner Level
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** *(your GitHub link here)*
+
+---
